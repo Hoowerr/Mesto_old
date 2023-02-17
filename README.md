@@ -8,4 +8,4 @@
 
 Применены технологии: HTML, CSS, JS.
 
-**Ссылка GitHub Pages:** https://hoowerr.github.io/mesto/
+**Ссылка GitHub Pages:** https://hoowerr.github.io/Mesto_old/
